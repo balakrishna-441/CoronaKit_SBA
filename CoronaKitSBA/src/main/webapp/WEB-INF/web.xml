@@ -23,7 +23,7 @@
 	</context-param>
 	<context-param>
 		<param-name>jdbcPassword</param-name>
-		<param-value>MySQL@1234</param-value>
+		<param-value></param-value>
 	</context-param>
 	
 </web-app>
