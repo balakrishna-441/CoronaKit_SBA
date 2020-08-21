@@ -23,7 +23,7 @@
 			</tbody>
 		</table>
 	</div>
-	<div align="center"><br/><input type=submit title="Login"></div>
+	<div align="center"><br/><input type=submit value="Login"></div>
 	</form>
 <hr>
 <jsp:include page="footer.jsp"/>
