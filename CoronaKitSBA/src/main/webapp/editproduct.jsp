@@ -29,7 +29,7 @@
 				</tbody>
 			</table>			
 		</div>
-		<div align="center"><input type=submit title="Update Product"></div>
+		<div align="center"><input type=submit value="Update Product"></div>
 	</form>
 
 <hr/>	
